@@ -1,0 +1,6 @@
+name:
+  value: nebrass
+spring:
+  cloud:
+    config:
+      override-system-properties: false
